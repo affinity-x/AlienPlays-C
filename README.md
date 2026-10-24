@@ -24,6 +24,7 @@ AlienPlays-C is an experimental chess engine written in C, focused on chess sear
 git clone https://github.com/affinity-x/AlienPlays-C.git
 cd AlienPlays-C
 make
+```
 
 ##Run
 
