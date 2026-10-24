@@ -26,6 +26,6 @@ cd AlienPlays-C
 make
 ```
 
-##Run
+## Run
 
-./AlienPlays-C
+-./AlienPlays-C
