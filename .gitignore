@@ -1,0 +1,34 @@
+# Compiled binaries
+/AlienPlays-C
+/AlienPlays-C.exe
+*.o
+*.so
+*.a
+
+# Neural-network files and opening books
+*.nn
+*.bin
+
+# Logs and local data
+*.log
+*.pgn
+*.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Generated match and training data
+/matches/
+/tcec-training.txt
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+src/*.bak
+src/*.backup
+src/*.stage1
+src/*.stage2
+src/*.before-*
+src/*.evaluation-backup
+tests/*.exe
