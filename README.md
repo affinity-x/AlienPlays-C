@@ -25,6 +25,6 @@ git clone https://github.com/affinity-x/AlienPlays-C.git
 cd AlienPlays-C
 make
 
-## Run
+##Run
 
 ./AlienPlays-C
